@@ -18,7 +18,7 @@ Automated testing of the Daraz website using Selenium with Java and TestNG. The 
 
 ## Test Cases
 
-### Daraz Homepage Tests
+### Class name : public class home_page_test{}
 
 1. **Is there any search box in Homepage?**
 2. **Is there any cart option?**
@@ -26,8 +26,8 @@ Automated testing of the Daraz website using Selenium with Java and TestNG. The 
 4. **Print the category names that are visible on the homepage and match all the category types by assertion.**
 5. **How many payment methods are shown in the footer?**
 
-### Search 'hp laptop core i5' Tests
-
+### Class name : public class test_after_search_first_page{}
+Search 'hp laptop core i5' Tests
 1. **How many laptops are shown on the first page?**
 2. **In 'Short By', click on 'Price low to high' and check the total results shown on the first page.**
 3. **In 'Short By', click on 'Price High to low' and check the total results shown on the first page.**
