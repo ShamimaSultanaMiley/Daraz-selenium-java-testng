@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-15T17:10:53Z" name="Default suite" finished-at="2023-11-15T17:12:41Z" duration-ms="107672">
+    <groups>
+    </groups>
+    <test started-at="2023-11-15T17:10:53Z" name="Default test" finished-at="2023-11-15T17:12:41Z" duration-ms="107672">
+      <class name="TaskLists.test_after_search_first_page">
+        <test-method is-config="true" signature="driverSetUp()[pri:0, instance:TaskLists.test_after_search_first_page@606e4010]" started-at="2023-11-15T23:10:52Z" name="driverSetUp" finished-at="2023-11-15T23:10:53Z" duration-ms="1311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetUp -->
+        <test-method is-config="true" signature="goToDaraz()[pri:0, instance:TaskLists.test_after_search_first_page@606e4010]" started-at="2023-11-15T23:10:53Z" name="goToDaraz" finished-at="2023-11-15T23:11:13Z" duration-ms="19846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToDaraz -->
+        <test-method signature="totalSearchResultForFirstpage()[pri:1, instance:TaskLists.test_after_search_first_page@606e4010]" started-at="2023-11-15T23:11:13Z" name="totalSearchResultForFirstpage" finished-at="2023-11-15T23:11:19Z" duration-ms="5606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalSearchResultForFirstpage -->
+        <test-method is-config="true" signature="goToDaraz()[pri:0, instance:TaskLists.test_after_search_first_page@606e4010]" started-at="2023-11-15T23:11:19Z" name="goToDaraz" finished-at="2023-11-15T23:11:28Z" duration-ms="9374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToDaraz -->
+        <test-method signature="totalSearchResults_LowToHigh()[pri:2, instance:TaskLists.test_after_search_first_page@606e4010]" started-at="2023-11-15T23:11:28Z" name="totalSearchResults_LowToHigh" finished-at="2023-11-15T23:11:34Z" duration-ms="5729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalSearchResults_LowToHigh -->
+        <test-method is-config="true" signature="goToDaraz()[pri:0, instance:TaskLists.test_after_search_first_page@606e4010]" started-at="2023-11-15T23:11:34Z" name="goToDaraz" finished-at="2023-11-15T23:11:39Z" duration-ms="4908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToDaraz -->
+        <test-method signature="totalSearchResults_HighToLow()[pri:3, instance:TaskLists.test_after_search_first_page@606e4010]" started-at="2023-11-15T23:11:39Z" name="totalSearchResults_HighToLow" finished-at="2023-11-15T23:11:49Z" duration-ms="10201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalSearchResults_HighToLow -->
+        <test-method is-config="true" signature="goToDaraz()[pri:0, instance:TaskLists.test_after_search_first_page@606e4010]" started-at="2023-11-15T23:11:49Z" name="goToDaraz" finished-at="2023-11-15T23:11:54Z" duration-ms="4980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToDaraz -->
+        <test-method signature="totalSearchResults_BestMatch()[pri:4, instance:TaskLists.test_after_search_first_page@606e4010]" started-at="2023-11-15T23:11:54Z" name="totalSearchResults_BestMatch" finished-at="2023-11-15T23:12:00Z" duration-ms="5702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalSearchResults_BestMatch -->
+        <test-method is-config="true" signature="goToDaraz()[pri:0, instance:TaskLists.test_after_search_first_page@606e4010]" started-at="2023-11-15T23:12:00Z" name="goToDaraz" finished-at="2023-11-15T23:12:09Z" duration-ms="9479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToDaraz -->
+        <test-method signature="typesOfPromotionAndServices()[pri:5, instance:TaskLists.test_after_search_first_page@606e4010]" started-at="2023-11-15T23:12:09Z" name="typesOfPromotionAndServices" finished-at="2023-11-15T23:12:15Z" duration-ms="5856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- typesOfPromotionAndServices -->
+        <test-method is-config="true" signature="goToDaraz()[pri:0, instance:TaskLists.test_after_search_first_page@606e4010]" started-at="2023-11-15T23:12:15Z" name="goToDaraz" finished-at="2023-11-15T23:12:20Z" duration-ms="4880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToDaraz -->
+        <test-method signature="typesOfWarranty()[pri:6, instance:TaskLists.test_after_search_first_page@606e4010]" started-at="2023-11-15T23:12:20Z" name="typesOfWarranty" finished-at="2023-11-15T23:12:30Z" duration-ms="10122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- typesOfWarranty -->
+        <test-method is-config="true" signature="goToDaraz()[pri:0, instance:TaskLists.test_after_search_first_page@606e4010]" started-at="2023-11-15T23:12:30Z" name="goToDaraz" finished-at="2023-11-15T23:12:35Z" duration-ms="5045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToDaraz -->
+        <test-method signature="typesOfLocation()[pri:7, instance:TaskLists.test_after_search_first_page@606e4010]" started-at="2023-11-15T23:12:35Z" name="typesOfLocation" finished-at="2023-11-15T23:12:41Z" duration-ms="5930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- typesOfLocation -->
+        <test-method is-config="true" signature="driverClose()[pri:0, instance:TaskLists.test_after_search_first_page@606e4010]" started-at="2023-11-15T23:12:41Z" name="driverClose" finished-at="2023-11-15T23:12:41Z" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- TaskLists.test_after_search_first_page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
